@@ -1,0 +1,10 @@
+node_modules/
+dist/
+build/
+.env.local
+*.local
+*.log
+.vscode/
+.DS_Store
+localhost*.pem
+certs/
